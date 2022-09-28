@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaakkoiot
 - 👀 Interests are efficient, low-level programming, embedded devices and audio DSP.
 - 🌱 Currently learning assembly via embedded ARM M3 development platform.
-- 💞️ Looking to collaborate on DSP, embedded programming and design.
+- 💞️ Looking to collaborate on DSP, embedded programming and hw design.
 - 📫 How to reach me: voyano@gmail.com
 
 <!---
