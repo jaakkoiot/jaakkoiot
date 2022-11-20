@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @jaakkoiot
-- 👀 Interested in efficient, low-level programming, embedded devices and DSP/audio
+- 👀 Interested in efficient, low-level programming, embedded devices and DSP
 - 💻 Currently using Linux to create C programs with embedded perspective and learning FreeRTOS with an ARM M3 test board
 - 🎛️ Long term project: creating a DDS oscillator bank on Terasic DE0 Nano FPGA with Verilog and Nios II virtual CPU
 - 💞️ Looking to collaborate on DSP, embedded programming and electrical/hw design
